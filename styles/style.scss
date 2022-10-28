@@ -1,0 +1,9 @@
+$primaryBtn: rgb(142, 233, 202);
+$textcolor: rgb(38, 22, 68); 
+
+@import './header';
+@import './variables';
+
+.contact button {
+    background: $primaryBtn;
+}
