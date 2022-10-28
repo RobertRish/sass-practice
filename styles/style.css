@@ -1,4 +1,4 @@
-header {
+header, .extend {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -17,11 +17,11 @@ header {
   color: #261644;
 }
 
-header button {
+header button, .extend button {
   background: #8ee9ca;
 }
 
-header button:hover {
+header button:hover, .extend button:hover {
   background: #31208d;
 }
 

@@ -8,3 +8,7 @@
         background-color: $primaryBtn;
     }
 }
+
+.extend {
+    @extend header;
+}
